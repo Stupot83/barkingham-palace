@@ -1,0 +1,19 @@
+{
+  "name": "barkingham-palace",
+  "version": "1.0.0",
+  "description": "Website for Barkingham Palace Dog Grooming Salon and Boarding Kennels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stupot83/barkingham-palace.git"
+  },
+  "author": "Stuart Priestley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stupot83/barkingham-palace/issues"
+  },
+  "homepage": "https://github.com/Stupot83/barkingham-palace#readme"
+}
