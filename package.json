@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/Stupot83/barkingham-palace#readme",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
     "express": "^4.17.1",
-    "express-handlebars": "^4.0.3",
     "hbs": "^4.1.1"
   }
 }
