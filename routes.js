@@ -5,6 +5,10 @@ routes.get("/", (req, res) => {
     res.render("./index.html");
 });
 
+routes.get("/home", (req, res) => {
+    res.render("home.html");
+});
+
 routes.get("/about", (req, res) => {
     res.render("about.html");
 });
