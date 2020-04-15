@@ -9,7 +9,8 @@
 
 body {
     font-family: "Roboto-Condensed", Helvetica, Arial, sans-serif;
-    overflow-y: scroll;
+    /* overflow-y: scroll; */
+    overscroll-behavior: none;
 }
 
 @media screen and (max-width: 767px) {
@@ -18,7 +19,7 @@ body {
         border: 1px solid #22181c;
         padding-bottom: 10px;
         padding-top: 10px;
-        height: 15vh;
+        height: 150px;
         width: 100vw;
         position: fixed;
         left: 0;
@@ -49,7 +50,7 @@ body {
     }
 
     .logo-container {
-        height: 15vh;
+        height: 150px;
         width: 30vw;
     }
 
@@ -120,6 +121,43 @@ body {
         font-size: 14px;
     }
 
+    .social-media-bar {
+        height: 300px;
+        width: 100vw;
+        background-image: linear-gradient(260deg, #847577 0%, #6d435a 100%);
+        font-family: "Raleway", Helvetica, Arial, sans-serif;
+        padding: 10px;
+        display: block;
+        text-align: center;
+    }
+
+    .social-media-text-box {
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        padding-top: 30px;
+        height: 150px;
+    }
+
+    .social-media-text {
+        padding: 12px;
+        color: #fbfbf2;
+        font-size: 14pt;
+    }
+
+    .social-media-icons-box {
+        width: 100%;
+        padding: 10px;
+        display: flex;
+        height: 150px;
+    }
+
+    .social-media-icon {
+        font-size: 50pt;
+        width: 25vw;
+    }
+
     .navbar-bottom {
         left: 0;
         bottom: 0;
@@ -127,7 +165,6 @@ body {
         text-align: center;
         font-size: 18px;
         background-color: #07020d;
-        border: 1px solid #22181c;
         padding-bottom: 10px;
         height: 45vh;
         color: #e5e6e4;
@@ -135,7 +172,7 @@ body {
     }
 
     .contact-details-container {
-        height: 15vh;
+        height: 150px;
         width: 100%;
         padding: 10px;
     }
@@ -151,11 +188,11 @@ body {
     }
 
     .contact-text strong {
-        color:#b1ede8;
+        color: #b1ede8;
     }
 
     .opening-hours-container {
-        height: 15vh;
+        height: 150px;
         width: 100%;
         padding: 10px;
     }
@@ -171,11 +208,11 @@ body {
     }
 
     .opening-hours-text strong {
-        color:#b1ede8;
+        color: #b1ede8;
     }
 
     .awards-container {
-        height: 15vh;
+        height: 150px;
         width: 100%;
         padding: 20px;
         text-align: center;
@@ -195,7 +232,7 @@ body {
         padding-bottom: 10px;
         padding-top: 10px;
         align-items: center;
-        height: 15vh;
+        height: 150px;
         background-color: #07020d;
         border: 1px solid #22181c;
         width: 100vw;
@@ -231,7 +268,7 @@ body {
     }
 
     .logo-container {
-        height: 15vh;
+        height: 150px;
         width: 30vw;
         padding: 10px;
     }
@@ -290,23 +327,57 @@ body {
         font-size: 14px;
     }
 
+    .social-media-bar {
+        height: 150px;
+        width: 100vw;
+        background-image: linear-gradient(260deg, #847577 0%, #6d435a 100%);
+        font-family: "Raleway", Helvetica, Arial, sans-serif;
+        padding: 20px;
+        display: flex;
+    }
+
+    .social-media-text-box {
+        width: 50%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 10px;
+        padding-left: 60px;
+    }
+
+    .social-media-text {
+        padding: 10px;
+        color: #fbfbf2;
+        font-size: 10pt;
+        text-align: start;
+    }
+
+    .social-media-icons-box {
+        width: 50%;
+        padding: 10px;
+        display: flex;
+    }
+
+    .social-media-icon {
+        font-size: 55pt;
+        padding-left: 20px;
+        padding-top: 10px;
+    }
+
     .navbar-bottom {
-        position: fixed;
         left: 0;
         bottom: 0;
         width: 100%;
         text-align: center;
         font-size: 18px;
         background-color: #07020d;
-        border: 1px solid #22181c;
         padding-bottom: 10px;
-        height: 15vh;
+        height: 150px;
         color: #e5e6e4;
         display: flex;
     }
 
     .contact-details-container {
-        height: 15vh;
+        height: 150px;
         width: 30%;
         padding: 10px;
     }
@@ -322,11 +393,11 @@ body {
     }
 
     .contact-text strong {
-        color:#b1ede8;
+        color: #b1ede8;
     }
 
     .opening-hours-container {
-        height: 15vh;
+        height: 150px;
         width: 30%;
         padding: 10px;
     }
@@ -342,11 +413,11 @@ body {
     }
 
     .opening-hours-text strong {
-        color:#b1ede8;
+        color: #b1ede8;
     }
 
     .awards-container {
-        height: 15vh;
+        height: 150px;
         width: 40%;
         padding: 20px;
         text-align: center;
@@ -366,7 +437,7 @@ body {
         padding-bottom: 10px;
         padding-top: 10px;
         align-items: center;
-        height: 15vh;
+        height: 150px;
         background-color: #07020d;
         border: 1px solid #22181c;
         width: 100vw;
@@ -403,7 +474,7 @@ body {
     }
 
     .logo-container {
-        height: 15vh;
+        height: 150px;
         width: 30vw;
         padding: 10px;
     }
@@ -427,7 +498,6 @@ body {
     .nav-menu-links:hover {
         border-bottom: 3px solid #fffcf9;
     }
-
 
     .cta-text {
         padding: 10px;
@@ -457,23 +527,57 @@ body {
         font-size: 14px;
     }
 
+    .social-media-bar {
+        height: 150px;
+        width: 100vw;
+        background-image: linear-gradient(260deg, #847577 0%, #6d435a 100%);
+        font-family: "Raleway", Helvetica, Arial, sans-serif;
+        padding: 20px;
+        display: flex;
+    }
+
+    .social-media-text-box {
+        width: 50%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 10px;
+        padding-left: 90px;
+    }
+
+    .social-media-text {
+        padding: 5px;
+        color: #fbfbf2;
+        font-size: 14pt;
+        text-align: start;
+    }
+
+    .social-media-icons-box {
+        width: 50%;
+        padding: 10px;
+        display: flex;
+    }
+
+    .social-media-icon {
+        font-size: 60pt;
+        padding-left: 40px;
+        padding-top: 5px;
+    }
+
     .navbar-bottom {
-        position: fixed;
         left: 0;
         bottom: 0;
         width: 100%;
         text-align: center;
         font-size: 18px;
         background-color: #07020d;
-        border: 1px solid #22181c;
         padding-bottom: 10px;
-        height: 15vh;
+        height: 150px;
         color: #e5e6e4;
         display: flex;
     }
 
     .contact-details-container {
-        height: 15vh;
+        height: 150px;
         width: 30%;
         padding: 10px;
     }
@@ -489,11 +593,11 @@ body {
     }
 
     .contact-text strong {
-        color:#b1ede8;
+        color: #b1ede8;
     }
 
     .opening-hours-container {
-        height: 15vh;
+        height: 150px;
         width: 30%;
         padding: 10px;
     }
@@ -509,11 +613,11 @@ body {
     }
 
     .opening-hours-text strong {
-        color:#b1ede8;
+        color: #b1ede8;
     }
 
     .awards-container {
-        height: 15vh;
+        height: 150px;
         width: 40%;
         padding: 20px;
         text-align: center;
@@ -533,7 +637,7 @@ body {
         padding-bottom: 10px;
         padding-top: 10px;
         align-items: center;
-        height: 15vh;
+        height: 150px;
         background-color: #07020d;
         border: 1px solid #22181c;
         width: 100vw;
@@ -571,7 +675,7 @@ body {
     }
 
     .logo-container {
-        height: 15vh;
+        height: 150px;
         width: 30vw;
         padding: 10px;
     }
@@ -624,22 +728,55 @@ body {
         font-size: 16px;
     }
 
+    .social-media-bar {
+        height: 150px;
+        width: 100vw;
+        background-image: linear-gradient(260deg, #847577 0%, #6d435a 100%);
+        font-family: "Raleway", Helvetica, Arial, sans-serif;
+        padding: 20px;
+        display: flex;
+    }
+
+    .social-media-text-box {
+        width: 50%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 10px;
+        padding-left: 90px;
+    }
+
+    .social-media-text {
+        padding: 5px;
+        color: #fbfbf2;
+        font-size: 14pt;
+        text-align: start;
+    }
+
+    .social-media-icons-box {
+        width: 50%;
+        padding: 10px;
+        display: flex;
+    }
+
+    .social-media-icon {
+        font-size: 70pt;
+        padding-left: 50px;
+    }
+
     .navbar-bottom {
-        position: fixed;
         left: 0;
         bottom: 0;
         width: 100%;
         display: flex;
         font-size: 18px;
         background-color: #07020d;
-        border: 1px solid #22181c;
         padding-bottom: 10px;
-        height: 15vh;
+        height: 150px;
         color: #e5e6e4;
     }
 
     .contact-details-container {
-        height: 15vh;
+        height: 150px;
         width: 30%;
         padding: 10px;
     }
@@ -655,11 +792,11 @@ body {
     }
 
     .contact-text strong {
-        color:#b1ede8;
+        color: #b1ede8;
     }
 
     .opening-hours-container {
-        height: 15vh;
+        height: 150px;
         width: 30%;
         padding: 10px;
     }
@@ -675,11 +812,11 @@ body {
     }
 
     .opening-hours-text strong {
-        color:#b1ede8;
+        color: #b1ede8;
     }
 
     .awards-container {
-        height: 15vh;
+        height: 150px;
         width: 40%;
         padding: 20px;
         text-align: center;
@@ -693,8 +830,8 @@ body {
 }
 
 .image-bar {
-    margin-top: 15vh;
-    height: 30vh;
+    margin-top: 150px;
+    height: 300px;
 }
 
 .image-bar img {
@@ -704,7 +841,7 @@ body {
 }
 
 .cta-bar {
-    height: 15vh;
+    height: 150px;
     display: flex;
     background-image: linear-gradient(260deg, #b1ede8 0%, #003f91 100%);
     font-family: "Raleway", Helvetica, Arial, sans-serif;
