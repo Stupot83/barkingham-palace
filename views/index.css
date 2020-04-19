@@ -124,6 +124,26 @@ body {
         font-size: 14px;
     }
 
+    .cta-two-button-box {
+        width: 100% !important;
+        padding-top: 10px !important;
+        text-align: center;
+    }
+
+    .cta-two-button {
+        background-color: #6d326d;
+        border: 1px solid #1e1e24;
+        border-radius: 30px;
+        color: #fff8f0;
+        padding: 15px 40px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 14px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
     .social-media-bar {
         height: 300px;
         width: 100vw;
@@ -297,15 +317,15 @@ body {
     }
 
     .cta-text-box {
-        width: 70% !important;
-        padding-left: 50px !important;
+        padding-left: 0px !important;
+        padding-right: 0px !important;
     }
 
     .cta-text {
         padding: 10px;
         color: #fbfbf2;
         font-size: 10pt;
-        text-align: center;
+        text-align: left;
     }
 
     .cta-button-box {
@@ -327,6 +347,25 @@ body {
         text-decoration: none;
         display: inline-block;
         font-size: 14px;
+    }
+
+    .cta-two-button-box {
+        width: 40%;
+        text-align: center;
+    }
+
+    .cta-two-button {
+        background-color: #6d326d;
+        border: 1px solid #1e1e24;
+        border-radius: 30px;
+        color: #fff8f0;
+        padding: 18px 30px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 14px;
+        margin-top: 30px;
+        margin-right: 10px;
     }
 
     .social-media-bar {
@@ -529,6 +568,29 @@ body {
         font-size: 14px;
     }
 
+    .cta-two-button-box {
+        width: 40%;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 20px;
+        padding-top: 28px;
+        text-align: center;
+    }
+
+    .cta-two-button {
+        background-color: #6d326d;
+        border: 1px solid #1e1e24;
+        border-radius: 30px;
+        color: #fff8f0;
+        padding: 20px 40px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 14px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
     .social-media-bar {
         height: 150px;
         width: 100vw;
@@ -729,7 +791,30 @@ body {
         display: inline-block;
         font-size: 16px;
     }
+    
+    .cta-two-button-box {
+        width: 40%;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 20px;
+        padding-top: 22px;
+        text-align: center;
+    }
 
+    .cta-two-button {
+        background-color: #6d326d;
+        border: 1px solid #1e1e24;
+        border-radius: 30px;
+        color: #fff8f0;
+        padding: 20px 40px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    
     .social-media-bar {
         height: 150px;
         width: 100vw;
