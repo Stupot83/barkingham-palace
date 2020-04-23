@@ -256,13 +256,13 @@ body {
         margin-top: 20px;
         text-align: center;
     }
-    
+
     .testimonial-text {
         font-style: italic;
         color: #393e41;
         font-size: 12pt;
     }
-    
+
     .testimonial-name {
         font-style: normal;
         color: #6d32cd;
@@ -287,7 +287,7 @@ body {
         display: block;
         height: 100%;
     }
-    
+
     .contact-box {
         width: 100%;
         padding: 20px;
@@ -301,14 +301,14 @@ body {
         padding-bottom: 15px;
         padding-top: 15px;
     }
-    
+
     .contact-info {
         padding: 20px;
         color: #847577;
         font-size: 12pt;
         text-align: center;
     }
-    
+
     .contact-info-small {
         text-align: center;
         padding: 10px;
@@ -326,29 +326,29 @@ body {
         height: 100%;
         display: block;
     }
-    
+
     .info-box-alt {
         background-color: #a1cdf1;
         padding: 15px;
         margin-bottom: 50px;
-        border: 1px solid #5DA9E9;
+        border: 1px solid #5da9e9;
         border-radius: 15px;
         height: 100%;
         display: block;
     }
-    
+
     .info-main {
         width: 100%;
         height: 100%;
         padding: 10px;
     }
-    
+
     .info-picture {
         width: 100%;
         height: 100%;
         padding: 10px;
     }
-    
+
     .info-title {
         font-size: 10pt;
         text-transform: uppercase;
@@ -356,7 +356,7 @@ body {
         color: #003f91;
         margin-bottom: 10px;
     }
-    
+
     .info-image {
         height: 100%;
         width: 100%;
@@ -602,7 +602,7 @@ body {
         display: flex;
         height: 200px;
     }
-    
+
     .testimonial-box {
         background-color: #fff8f0;
         border: 2px solid #cfd2cd;
@@ -614,13 +614,13 @@ body {
         margin-top: 20px;
         text-align: center;
     }
-    
+
     .testimonial-text {
         font-style: italic;
         color: #393e41;
         font-size: 12pt;
     }
-    
+
     .testimonial-name {
         font-style: normal;
         color: #6d32cd;
@@ -645,7 +645,7 @@ body {
         display: flex;
         height: 300px;
     }
-    
+
     .contact-box {
         width: 50%;
         padding-left: 30px;
@@ -662,13 +662,13 @@ body {
         padding-bottom: 15px;
         padding-top: 15px;
     }
-    
+
     .contact-info {
         padding: 20px;
         color: #847577;
         font-size: 11pt;
     }
-    
+
     .contact-info-small {
         text-align: center;
         padding: 10px;
@@ -686,29 +686,29 @@ body {
         height: 200px;
         display: flex;
     }
-    
+
     .info-box-alt {
         background-color: #a1cdf1;
         padding: 30px;
         margin-bottom: 50px;
-        border: 1px solid #5DA9E9;
+        border: 1px solid #5da9e9;
         border-radius: 15px;
         height: 200px;
         display: flex;
     }
-    
+
     .info-main {
         width: 70%;
         height: 100%;
         padding: 10px;
     }
-    
+
     .info-picture {
         width: 30%;
         height: 100%;
         padding: 10px;
     }
-    
+
     .info-title {
         font-size: 16pt;
         text-transform: uppercase;
@@ -716,7 +716,7 @@ body {
         color: #003f91;
         margin-bottom: 10px;
     }
-    
+
     .info-image {
         height: 100%;
         width: 100%;
@@ -960,7 +960,7 @@ body {
         display: flex;
         height: 200px;
     }
-    
+
     .testimonial-box {
         background-color: #fff8f0;
         border: 2px solid #cfd2cd;
@@ -971,12 +971,12 @@ body {
         margin-top: 20px;
         text-align: center;
     }
-    
+
     .testimonial-text {
         font-style: italic;
         color: #393e41;
     }
-    
+
     .testimonial-name {
         font-style: normal;
         color: #6d32cd;
@@ -1000,7 +1000,7 @@ body {
         display: flex;
         height: 300px;
     }
-    
+
     .contact-box {
         width: 50%;
         padding-left: 30px;
@@ -1017,13 +1017,13 @@ body {
         padding-bottom: 15px;
         padding-top: 15px;
     }
-    
+
     .contact-info {
         padding: 20px;
         color: #847577;
         font-size: 11pt;
     }
-    
+
     .contact-info-small {
         text-align: center;
         padding: 10px;
@@ -1041,29 +1041,29 @@ body {
         height: 200px;
         display: flex;
     }
-    
+
     .info-box-alt {
         background-color: #a1cdf1;
         padding: 30px;
         margin-bottom: 50px;
-        border: 1px solid #5DA9E9;
+        border: 1px solid #5da9e9;
         border-radius: 15px;
         height: 200px;
         display: flex;
     }
-    
+
     .info-main {
         width: 70%;
         height: 100%;
         padding: 10px;
     }
-    
+
     .info-picture {
         width: 30%;
         height: 100%;
         padding: 10px;
     }
-    
+
     .info-title {
         font-size: 16pt;
         text-transform: uppercase;
@@ -1071,7 +1071,7 @@ body {
         color: #003f91;
         margin-bottom: 10px;
     }
-    
+
     .info-image {
         height: 100%;
         width: 100%;
@@ -1185,7 +1185,7 @@ body {
         display: inline-block;
         font-size: 16px;
     }
-    
+
     .cta-two-button-box {
         width: 40%;
         padding-left: 20px;
@@ -1208,7 +1208,7 @@ body {
         margin-left: 10px;
         margin-right: 10px;
     }
-    
+
     .social-media-bar {
         height: 150px;
         width: 100vw;
@@ -1314,7 +1314,7 @@ body {
         display: flex;
         height: 220px;
     }
-    
+
     .testimonial-box {
         background-color: #fff8f0;
         border: 2px solid #cfd2cd;
@@ -1325,12 +1325,12 @@ body {
         margin-top: 20px;
         text-align: center;
     }
-    
+
     .testimonial-text {
         font-style: italic;
         color: #393e41;
     }
-    
+
     .testimonial-name {
         font-style: normal;
         color: #6d32cd;
@@ -1354,7 +1354,7 @@ body {
         display: flex;
         height: 300px;
     }
-    
+
     .contact-box {
         width: 50%;
         padding-left: 30px;
@@ -1371,13 +1371,13 @@ body {
         padding-bottom: 15px;
         padding-top: 15px;
     }
-    
+
     .contact-info {
         padding: 20px;
         color: #847577;
         font-size: 12pt;
     }
-    
+
     .contact-info-small {
         text-align: center;
         padding: 10px;
@@ -1395,29 +1395,29 @@ body {
         height: 200px;
         display: flex;
     }
-    
+
     .info-box-alt {
         background-color: #a1cdf1;
         padding: 30px;
         margin-bottom: 50px;
-        border: 1px solid #5DA9E9;
+        border: 1px solid #5da9e9;
         border-radius: 15px;
         height: 200px;
         display: flex;
     }
-    
+
     .info-main {
         width: 70%;
         height: 100%;
         padding: 10px;
     }
-    
+
     .info-picture {
         width: 30%;
         height: 100%;
         padding: 10px;
     }
-    
+
     .info-title {
         font-size: 16pt;
         text-transform: uppercase;
@@ -1425,7 +1425,7 @@ body {
         color: #003f91;
         margin-bottom: 10px;
     }
-    
+
     .info-image {
         height: 100%;
         width: 100%;
@@ -1532,7 +1532,7 @@ body {
     background-color: #a1cdf1;
     border-radius: 15px;
     border: 1px solid #5db7de;
-    height: 82%
+    height: 82%;
 }
 
 .contact-map-image {
@@ -1583,28 +1583,28 @@ body {
     background-color: #a1cdf1;
     border-radius: 15px;
     border: 1px solid #5db7de;
-  }
-  
-  input[type=text] {
+}
+
+input[type="text"] {
     width: 100%;
     padding: 15px;
     margin: 5px 0 18px 0;
     display: inline-block;
     border: none;
     background: #e5e6e4;
-  }
-  
-  input[type=text]:focus {
+}
+
+input[type="text"]:focus {
     background-color: #d8d8d8;
     outline: none;
-  }
-  
-  hr {
+}
+
+hr {
     border: 1px solid #f1e9db;
     margin-bottom: 25px;
-  }
-  
-  .submitbtn {
+}
+
+.submitbtn {
     background-color: #5da9e9;
     color: white;
     padding: 18px 30px;
@@ -1614,8 +1614,8 @@ body {
     opacity: 0.9;
     border-radius: 15px;
     font-size: 10pt;
-  }
-  
-  .submitbtn:hover {
-    opacity:1;
-  }
+}
+
+.submitbtn:hover {
+    opacity: 1;
+}
